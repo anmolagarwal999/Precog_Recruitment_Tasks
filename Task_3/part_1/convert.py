@@ -1,8 +1,5 @@
 import camelot
 import pandas as pd
-
-# Python code to illustrate
-# inserting data in MongoDB
 from pymongo import MongoClient
 
 
