@@ -1,4 +1,4 @@
-# Precog Tasks
+# Precog Recruitment Tasks
 
 # Task 1
 pdf there in corresponding folder `Task_1`
@@ -19,5 +19,3 @@ The code to populate the database is in `convert.py`.
 The top tags analysis is in `top.ipynb`
 This task is incomplete due to lack of time on my end.
 I faced issues dealing with large size and had to break posts.xml to 33 smaller files to analyze top tags (can be found at bottom of ipynb file). COrresponing code to split 'Posts.xml' in `split.sh`
-
-**Note: I gave approximately 12 hrs in total to the tasks above. I was down with fever for 4 days. The above is in not even remotely close to my best attempt (several improvements possible: better analysis, significantly better presentation, better file structure). I would appreciate the opportunity to do more tasks in order to prove my competence.**
